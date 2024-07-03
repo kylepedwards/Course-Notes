@@ -72,7 +72,9 @@ Data types distinguished/used in this course ([Master statistics & machine learn
 ## Sample vs. population data
 (From [Master statistics & machine learning](https://www.udemy.com/course/statsml_x).)
 
+**Population**: Data from ALL members of a group.
 
+**Sample**: Data from SOME members of a group (hopefully randomly selected).
 
 ## Samples, case reports, and anecdotes
 (From [Master statistics & machine learning](https://www.udemy.com/course/statsml_x).)

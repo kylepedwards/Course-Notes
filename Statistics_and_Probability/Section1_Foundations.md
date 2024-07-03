@@ -60,12 +60,12 @@ A disambiguation from the instructor:
 Data types distinguished/used in this course ([Master statistics & machine learning](https://www.udemy.com/course/statsml_x)).
 * <ins>**Category**</ins>:
     * **Numerical (numbers)**:
-        * <ins>Numerical Type</ins>:
+        * <ins>Numerical Types</ins>:
             * **Interval**: Numeric scale with meaningful intervals (ex. Temp. in C).
             * **Ratio**: Interval, but also with meaningful zero (ex. Height in cm).
             * **Discrete**: No arbitrary precision (integers) (ex. Population).
     * **Categorical (labels)**:
-        * <ins>Categorical Type</ins>:
+        * <ins>Categorical Types</ins>:
             * **Ordinal**: Sortable, discrete (ex. education (high school, university, *etc.*)).
             * **Nominal**: Non-sortable discrete (ex. movie genre (sci-fi, romcom, *etc.*)).
 

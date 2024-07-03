@@ -1,1 +1,0 @@
-# Types of Statistical Analysis - Inferential Statistics

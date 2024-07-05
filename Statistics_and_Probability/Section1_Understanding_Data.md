@@ -72,9 +72,13 @@ Data types distinguished/used in this course ([Master statistics & machine learn
 ## Sample vs. population data
 (From [Master statistics & machine learning](https://www.udemy.com/course/statsml_x).)
 
-**Population**: Data from ALL members of a group.
+* **Population**: Data from ALL members of a group.
+    * <ins>Example</ins>: Salaries in a department; Number of lions in a zoo; Facebook group members.
+    * <ins>Notation for Population ***parameters***</ins>: $\mu$ (mu), $\beta$ (beta), $\sigma^2$ (sigma squared)
 
-**Sample**: Data from SOME members of a group (hopefully randomly selected).
+* **Sample**: Data from SOME members of a group (hopefully randomly selected).
+    * <ins>Example</ins>: Average height of Italians; Salaries of teachers; Brightness of stars in the Milky Way galaxy.
+    * <ins>Notation for Sample ***estimates***</ins>: $\hat{\mu}$ (or $\bar{x}$), $\hat{\beta}$ (or $\beta$), $\hat{\sigma}^2$ (or $s^2$)
 
 ## Samples, case reports, and anecdotes
 (From [Master statistics & machine learning](https://www.udemy.com/course/statsml_x).)

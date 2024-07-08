@@ -1,3 +1,4 @@
-# Master statistics & machine learning: intuition, math, code
+# Statistics & Probability
 
-Notes and projects from [Master statistics & machine learning: intuition, math, code](https://www.udemy.com/course/statsml_x).
+Notes and practice projects from the following:
+* [Master statistics & machine learning](https://www.udemy.com/course/statsml_x)

@@ -17,4 +17,8 @@
             * **Measures of Central Tendency** may give a person the average of a data set, it doesn't describe how the data is distributed within the set. **Measures of Variability** helps describe the shape and spread of the data set.
         * Can we use **Descriptive Statistics** to make an inference or prediction? No, that job belongs to **Inferential Statistics**.
 
-    * **Inferential Statistics**: Helps us make inferences and predictions about a population based on a sample.
+    * **Inferential Statistics**: Helps us make inferences and predictions about a **population** based on a **sample**.
+        * **Population**: A collection of individuals or events whose properties are to be analyzed, and relationships to be identified.
+        * **Sample**: Subset of **population**.
+            * Selected based on sampling methods.
+            * A correctly-chosen sample will have most of the information about the population.

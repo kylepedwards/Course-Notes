@@ -1,5 +1,1 @@
-# Course Notes and Projects
-
-* Mathematics
-* Statistics & Probability
-* Data Sciences
+# Course Notes, Exercises, and Projects

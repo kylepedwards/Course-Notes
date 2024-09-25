@@ -1,1 +1,1 @@
-# Course Notes, Exercises, and Projects
+# Notes, Exercises, and Practice Projects
